@@ -30,7 +30,7 @@ public class fcfs {
 			 job j = list.get(k);
 			 list1.add(i, j);			 
 		}
-		return list;
+		return list1;
 		
 	}
 	
